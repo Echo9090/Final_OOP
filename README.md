@@ -1,6 +1,8 @@
 # Final_OOP
 Final Case Study Output
 
+Presented by Yestin Xenos De Almero
+
 Ride-Sharing App
 A Python-based ride-sharing application that allows users to sign up as either Passengers or Drivers. Passengers can book and cancel trips, while Drivers can manage their trips, view their profiles, and track their earnings.
 
