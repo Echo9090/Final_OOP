@@ -1,0 +1,82 @@
+[
+    {
+        "trip_id": "5095b1ae-6f5a-4772-97fd-eb176c817527",
+        "route": "Downtown A",
+        "distance": 25.0,
+        "base_fare": 50.0,
+        "driver_id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "passenger_groups": [
+            {
+                "passenger_id": "passenger_1",
+                "group_size": 2
+            }
+        ],
+        "available_seats": 2,
+        "start_time": "2023-12-20 14:00:00",
+        "status": "completed",
+        "final_fare": 600.0
+    },
+    {
+        "trip_id": "6e9af9bc-96e7-4bd7-b870-ba7f10a71a40",
+        "route": "Uptown B",
+        "distance": 15.0,
+        "base_fare": 50.0,
+        "driver_id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "passenger_groups": [
+            {
+                "passenger_id": "passenger_2",
+                "group_size": 1
+            }
+        ],
+        "available_seats": 3,
+        "start_time": "2023-12-20 15:00:00",
+        "status": "canceled",
+        "final_fare": null
+    },
+    {
+        "trip_id": "trip1",
+        "route": "City Center C",
+        "distance": 20.0,
+        "base_fare": 50.0,
+        "driver_id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "passenger_groups": [
+            {
+                "passenger_id": "passenger_3",
+                "group_size": 3
+            }
+        ],
+        "available_seats": 1,
+        "start_time": "2023-12-19 18:00:00",
+        "status": "completed",
+        "final_fare": 500.0
+    },
+    {
+        "trip_id": "trip3",
+        "route": "Suburban D",
+        "distance": 10.0,
+        "base_fare": 50.0,
+        "driver_id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "passenger_groups": [
+            {
+                "passenger_id": "passenger_4",
+                "group_size": 2
+            }
+        ],
+        "available_seats": 2,
+        "start_time": "2023-12-20 16:00:00",
+        "status": "canceled",
+        "final_fare": null
+    },
+    {
+        "trip_id": "65b27641-7d69-484d-aa94-87aa804e017a",
+        "route": "City A",
+        "distance": 23.0,
+        "base_fare": 280.0,
+        "driver_id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "passenger_groups": [],
+        "available_seats": 4,
+        "start_time": "2024-12-20 05:21:00",
+        "status": "canceled",
+        "final_fare": null
+    }
+]

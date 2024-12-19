@@ -1,0 +1,26 @@
+[
+    {
+        "id": "passenger_1",
+        "first_name": "Alice",
+        "last_name": "Green",
+        "contact": "alice@example.com",
+        "email": "alice.green1234@rideshare.com",
+        "password": "pass1234"
+    },
+    {
+        "id": "passenger_2",
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "contact": "bob@example.com",
+        "email": "bob.smith5678@rideshare.com",
+        "password": "pass5678"
+    },
+    {
+        "id": "passenger_3",
+        "first_name": "Charlie",
+        "last_name": "Taylor",
+        "contact": "charlie@example.com",
+        "email": "charlie.taylor4321@rideshare.com",
+        "password": "pass4321"
+    }
+]

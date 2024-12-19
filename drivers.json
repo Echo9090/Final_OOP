@@ -1,0 +1,34 @@
+[
+    {
+        "id": "93f8bc53-4202-45b3-8512-b0db369e0b7e",
+        "first_name": "David",
+        "last_name": "Brown",
+        "contact": "david@example.com",
+        "email": "david.brown8835@rideshare.com",
+        "password": "pass9293",
+        "vehicle_details": {
+            "license_plate": "A1234",
+            "model": "Toyota",
+            "color": "Blue"
+        },
+        "pending_trip_ids": [
+            "65b27641-7d69-484d-aa94-87aa804e017a",
+            "6e9af9bc-96e7-4bd7-b870-ba7f10a71a40"
+        ],
+        "in_progress_trip_ids": [
+            "65b27641-7d69-484d-aa94-87aa804e017a"
+        ],
+        "completed_trip_ids": [
+            "65b27641-7d69-484d-aa94-87aa804e017a",
+            "5095b1ae-6f5a-4772-97fd-eb176c817527",
+            "trip1"
+        ],
+        "canceled_trip_ids": [
+            "65b27641-7d69-484d-aa94-87aa804e017a",
+            "6e9af9bc-96e7-4bd7-b870-ba7f10a71a40",
+            "trip3"
+        ],
+        "total_earnings": 6060.0,
+        "available_seats": 4
+    }
+]
